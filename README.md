@@ -1,8 +1,13 @@
 Branchingas
 ===========
+v0.3
+Realizuota galimybe f3 skaiciuoti reiksmes
 
-Mokomes komandiskai dirbti su branch'ais.
-Bandome sukurti konfliktine situacija.
-Bandome dirbti pagal rekomenduotina darbo su git
-principa.
-Pildome dar kazkuo
+v0.2.1
+Istaisyta v0.2 klaideles
+
+v0.2
+Papildyta galimybe f2 skaiciuoti reiksmes
+
+v0.1
+Galima skaiciuoti f reiksmes
