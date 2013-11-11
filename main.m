@@ -1,3 +1,3 @@
 function [f] = funkcija(x)
 % Grazina testo funkcijos reiksme
-f = 3*sin(x)*cos(x);
+f = 3*sin(x)*cos(2*x);
